@@ -7,3 +7,7 @@
   box-shadow: none;
   border: none;
 }
+.ui.three.column.grid.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
